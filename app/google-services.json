@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "311037075412",
+    "firebase_url": "https://esp8266-b434e.firebaseio.com",
+    "project_id": "esp8266-b434e",
+    "storage_bucket": "esp8266-b434e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311037075412:android:737d95c89a7bc6b6750041",
+        "android_client_info": {
+          "package_name": "com.example.hygeai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311037075412-76vb2hk1sdu4s4kj4bbuh9u91cqpl91m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hygeai",
+            "certificate_hash": "0d1b61dc4544210abf72f5b4c2f48c83b132f41b"
+          }
+        },
+        {
+          "client_id": "311037075412-6526vg04727e5ovuv5tvuttfchmp7vne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hygeai",
+            "certificate_hash": "f5bb2756d1f202846c4e48e115b024811b3bcd28"
+          }
+        },
+        {
+          "client_id": "311037075412-qrfmuom9i5iullgj9e600t6g4epf2rdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNOESHSGSho-IHhw4mRfoBRJ9plp0gpKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311037075412-qrfmuom9i5iullgj9e600t6g4epf2rdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

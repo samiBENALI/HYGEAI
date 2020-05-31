@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hygeai">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".howitworks"></activity>
+        <activity android:name=".aboutus" />
+        <activity android:name=".Menu" />
+        <activity android:name=".ConfigStep5" />
+        <activity android:name=".ConfigStep4" />
+        <activity android:name=".ConfigStep3" />
+        <activity android:name=".ConfigStep2" />
+        <activity android:name=".ConfigStep1" />
+        <activity android:name=".Configuration" />
+        <activity android:name=".Connection" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
